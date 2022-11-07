@@ -8,4 +8,4 @@ plugins:
 
 nav:
   - Overview:
-      - What is Backstage?: 'test.md'
+      - What is Backstage?: './test.md'
