@@ -9,3 +9,4 @@ plugins:
 nav:
   - Overview:
       - What is Backstage?: './test.md'
+      - testing backstage: './test2.md'
